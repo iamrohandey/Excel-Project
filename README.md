@@ -16,7 +16,7 @@ Welcome to my Excel Projects repository! This collection showcases a variety of 
   - Channel-wise order share (Amazon, Flipkart, etc.)
 - **Tech Used:** Pivot Charts, Slicers, Combo Charts, Pie Charts
 
-![Vrinda Store Dashboard](./)
+![Vrinda Store Dashboard](https://github.com/iamrohandey/Excel-Project/blob/main/Vrinda%20Store%20Data%20Analysis/Vrinda%20Store%20Report.png)
 ---
 
 ### 2. ✅ Sales Dashboard (Multi-Year Sales Insights)
@@ -29,5 +29,5 @@ Welcome to my Excel Projects repository! This collection showcases a variety of 
   - Customer Growth by Year
 - **Tech Used:** Pivot Charts, Timeline Filter, Bar/Area/Pie Charts
 
-![Sales Dashboard](./SalesDashboard.png)
+![Sales Dashboard](https://github.com/iamrohandey/Excel-Project/blob/main/SalesData/SalesData%20Report.png)
 ---
